@@ -1,0 +1,42 @@
+{
+	"Phase 1 - Week 1": {
+		"W01-D01-S01": [
+			{
+				"title": "W01-D01-S01 This is how we do it!",
+				"description": "https://docs.google.com/document/d/1QKUJmmXMFgZEgkkJM8Zo1qGFpzqmbwhHTFK_AwdAw6I/edit",
+				"maxPoints": 100,
+				"dueDays": 0,
+				"dueTime": { "h": 23, "m": 59 },
+				"workType": "ASSIGNMENT"
+			}
+		],
+		"W01-D04-S01": [
+			{
+				"title": "W01-D04-S01 Advance Calculator",
+				"description": "https://docs.google.com/document/d/1DacCcizXLspyjlBcdBzt-Ep-Dil0StoLuAIIwkngGvY/edit"
+			},
+			{
+				"title": "W01-D04-S01 Parsing Data 1",
+				"description": "https://docs.google.com/document/d/1gi8B9s32ZXUAe85W69N3P44e72J9_jxIN0Z8x7tVYSo/edit"
+			}
+		],
+		"W01-D04-S02": [
+			{
+				"title": "W01-D04-S02 Mango Tree",
+				"description": "https://docs.google.com/document/d/19fnzbLLv8NMbOk8_486jAdvZDKktm4JxV37xnYLQLyM/edit"
+			}
+		],
+		"W01-D05-S01": [
+			{
+				"title": "W01-D05-S01 Tree Grove",
+				"description": "https://docs.google.com/document/d/1wibuP52E5dgD3D3tUPR1nKipr7eph3oWPJbLlkUb2RM/edit"
+			}
+		],
+		"W01-D05-S02": [
+			{
+				"title": "W01-D05-S02 Cookies and Ovens",
+				"description": "https://docs.google.com/document/d/1-ieOLkdd0IMAwRP1GYfp96f8AdPAlZwmuropmO1_l8Q/edit"
+			}
+		]
+	}
+}
