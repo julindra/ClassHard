@@ -1,0 +1,32 @@
+{
+	"Phase 1 - Week 1": {
+		"W01-D01-S01": [
+			{
+				"title": "W01-D01-S01 This is how we do it!",
+				"description": "https://docs.google.com/document/d/1QKUJmmXMFgZEgkkJM8Zo1qGFpzqmbwhHTFK_AwdAw6I/edit",
+				"maxPoints": 100,
+				"dueDays": 0,
+				"dueTime": { "h": 23, "m": 59 },
+				"workType": "ASSIGNMENT"
+			}
+		],
+		"W01-D01-S02": [
+			{
+				"title": "W01-D01-S02 Problem Solving",
+				"description": "https://docs.google.com/document/d/1Yfa2YLmdoL_EB7o_ZRAbvdiwK7tw-lfRkwr8siqf3bg/edit"
+			},
+			{
+				"title": "W01-D01-S02 Debugging: Broken Palindrome Swapper",
+				"description": "https://docs.google.com/document/d/13tzOkUcIhICcsZ2xQwzAxjoOqbZu6HhbzOCRxTL1xVE/edit"
+			},
+			{
+				"title": "W01-D01-S02 Susun Kursi",
+				"description": "https://docs.google.com/document/d/1ALDfNEQIBRrEt3P0lACa2GStbs5Bzc8hNONsXffdUkw/edit"
+			},
+			{
+				"title": "W01-D01-S02 Money Coins",
+				"description": "https://docs.google.com/document/d/1YvbrCf3EVVIQ1jZ8JnrfJ07baHKqlEDimHydbBYN6AY/edit"
+			}
+		]
+	}
+}

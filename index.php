@@ -115,7 +115,7 @@ function createCourseWorks($service, $courseId, $topicId, $courseWorks)
 		$nowDateArr = explode('-', $nowDate);
 		$dueDate = ['year' => $nowDateArr[0], 'month' => $nowDateArr[1], 'day' => $nowDateArr[2]];
 		if (property_exists($c, 'dueDays') && $c->dueDays > 0) {
-			$newDueDate = explode('-', date('Y-m-d', strtotime($nowDate . ' + 1 days')));
+			$newDueDate = explode('-', date('Y-m-d', strtotime($nowDate . ' + '.$c->dueDays.' days')));
 			$dueDate = ['year' => $newDueDate[0], 'month' => $newDueDate[1], 'day' => $newDueDate[2]];
 		}
 
